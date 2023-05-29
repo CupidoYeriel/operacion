@@ -1,0 +1,32 @@
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.exe
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.deps.json
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.runtimeconfig.json
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.runtimeconfig.dev.json
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.dll
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.pdb
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.dll
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\refint\Ejercicio 1.dll
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.pdb
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\UPQROO\Desktop\METODOSU\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\ref\Ejercicio 1.dll
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.exe
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.deps.json
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.runtimeconfig.json
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.runtimeconfig.dev.json
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.dll
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio 1.pdb
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.dll
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\refint\Ejercicio 1.dll
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.pdb
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\Upqroo\Downloads\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\net5.0\ref\Ejercicio 1.dll
